@@ -1,0 +1,54 @@
+{
+  "project_info": {
+    "project_number": "108307444463",
+    "project_id": "travelbuddy-ca9ae",
+    "storage_bucket": "travelbuddy-ca9ae.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:108307444463:android:29630c4cdc52c442ed611a",
+        "android_client_info": {
+          "package_name": "com.jaguarboys.travelbuddy"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "108307444463-9nbvqjvr9a4sjbskhb1k8ikhke7035q3.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.jaguarboys.travelbuddy",
+            "certificate_hash": "9bbb3186b2189ef16d8f272bdab59362c395cbb4"
+          }
+        },
+        {
+          "client_id": "108307444463-e7f39tq3m8r7js24v446i27uaeqbv08j.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB-3p3sZJzvqaFWiiXlOd897AjDRJcxttw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "108307444463-e7f39tq3m8r7js24v446i27uaeqbv08j.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "108307444463-jjccs3tltsk75vghd2h0pm1e32dgg8td.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.jaguarboys.travelbuddy"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
